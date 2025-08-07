@@ -1,12 +1,26 @@
-# React + Vite
+# 📚Sorteador de Livros
+### Um projeto pessoal para estudar React.Js 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌼O projeto consiste em uma aplicação web, onde o usuário (que deseja muito ler um livro, mas não consegue decidir qual será a sua leitura) pode escolher um gênero literário que lhe interessa, e deixar 
+que o destino decida qual será a sua aventura.
 
-Currently, two official plugins are available:
+## Tecnologias utilizadas:
+- React.js
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸Imagens
+- >Página Inicial:
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/f65fbd85-b6d6-4ba7-8a6f-405571a4f8e5" />
 
-## Expanding the ESLint configuration
+- >Página do Sorteador:
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/8cb1d0fc-f0dd-43fb-bf7d-9d4589717d90" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- >Página do Resultado:
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d017073b-d7c8-4195-9e19-61c816f48555" />
+
+
+  ______________________________________________________________________________________________________________________________________________________
+
+
+
+
